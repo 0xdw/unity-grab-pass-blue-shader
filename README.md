@@ -1,2 +1,1 @@
-# unity-grab-pass-blue-shader
-Unity - Grab Pass Blue Shader
+# Unity - Grab Pass Blue Shader
